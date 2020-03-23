@@ -1,0 +1,3 @@
+[submodule "discmagnet.github.io"]
+	path = discmagnet.github.io
+	url = git@github.com:discmagnet/discmagnet.github.io.git
