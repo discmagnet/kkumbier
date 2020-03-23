@@ -1,4 +1,4 @@
-baseurl                 = "https://discmagnet.github.io"
+baseurl                 = "https://discmagnet.github.io/"
 DefaultContentLanguage  = "en"
 title                   = "Kyle Kumbier"
 theme = "hugo-future-imperfect-slim"
